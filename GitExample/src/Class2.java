@@ -1,6 +1,6 @@
 
 public class Class2 {
 
-	int j;
+	int j,k;
 
 }
